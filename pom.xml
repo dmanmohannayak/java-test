@@ -19,7 +19,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<sonar.organization>Nayak</sonar.organization>
-		<sonar.projectKey>antman4wasp</sonar.projectkey>
+		<sonar.projectKey>antman4wasp</sonar.projectKey>
 		<sonar.projectName>sample</sonar.projectName>
 	</properties>
 	<dependencies>
