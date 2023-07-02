@@ -18,8 +18,8 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<sonar.organization>Nayak</sonar.organization>
-		<sonar.projectKey>antman4wasp</sonar.projectKey>
+		<sonar.organization>angular</sonar.organization>
+		<sonar.projectKey>angular123</sonar.projectKey>
 		<sonar.projectName>sample</sonar.projectName>
 	</properties>
 	<dependencies>
